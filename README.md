@@ -1,6 +1,6 @@
 # netbox_topology
 
-### Note: For Netbox v2.8.0+, please consider using [nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) instead.
+### Note: For Netbox v2.8.0+, please consider using [nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) or [netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) instead.
 
 Patch to apply to a netbox installation to add beautiful topology view to sites
 
