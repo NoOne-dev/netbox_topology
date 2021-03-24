@@ -1,5 +1,7 @@
 # netbox_topology
 
+### Note: For Netbox v2.8.0+, please consider using [nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) instead.
+
 Patch to apply to a netbox installation to add beautiful topology view to sites
 
 **Updated by [mylivingweb](https://github.com/mylivingweb/netbox_topology) to use `/api/dcim/cables/ endpoint instead` of `/api/dcim/interface-connections/`**
